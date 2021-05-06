@@ -1,2 +1,3 @@
 <?php
-    echo "data";
+echo "data";
+echo "\n";
